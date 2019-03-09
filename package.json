@@ -1,2 +1,34 @@
 {
+  "name": "monsql",
+  "version": "0.0.5",
+  "description": "This package is for simplifing the database connection in nodejs.",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomgrozev/monsql.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mysql"
+  ],
+  "author": "Tom Grozev",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/tomgrozev/monsql/issues"
+  },
+  "homepage": "https://github.com/tomgrozev/monsql",
+  "scripts": {},
+  "_shasum": "c51c2b316f617c3469f1ab942b3b77560f99ed1d56e47f752a8ea43edc107c70",
+  "_from": "monsql@",
+  "directories": {
+    "lib": "lib"
+  },
+  "license": "ISC"
 }
